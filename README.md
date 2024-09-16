@@ -1,3 +1,5 @@
-Ejercicio práctico utilizando JPA--Envers.
-Se hizo el mismo ejercicio del práctico anterior agregando auditoría
-Se modificó y eliminó el objeto factura1 para poder observar los cambios en factura_aud.
+# 50194-DesarrollodeSoftware-3k09
+Santiago Nicolás Vega Gallardo / 50194 / UTN 3K09
+
+Se hizo el mismo ejercicio del práctico anterior agregando auditoría.
+
